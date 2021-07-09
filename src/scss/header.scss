@@ -1,0 +1,18 @@
+@import '../index.scss';
+
+.row  {
+  &.header {
+      justify-content: flex-end;
+      color: white;
+      font-size: 20px;
+  }
+}
+  .logout_icon {
+      margin-left: 1%;
+      cursor: pointer;
+  }
+
+  .header-title {
+     color: white;
+     font-size: 20px;
+  }
